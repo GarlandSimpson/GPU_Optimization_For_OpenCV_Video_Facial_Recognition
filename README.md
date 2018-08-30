@@ -9,10 +9,10 @@ This is a modification in the works for OpenCV Video Facial Recognition. The goa
 </ul>
 
 <ol> INSTRUCTIONS TO RUN
-  <li>Download opencv to your computer(I use opencv2) </li>
+  <li> As to not reinvent the wheel, follow the beginning of this YouTube: https://www.youtube.com/watch?v=M-VHaLHC4XI up until </li>
   <li>In your computers system variables, set the path to opencv bin<br  /> i.e. C:\opencv\build\x86\vc14\bin 
-  <br  /> NOTE: vc14 stands for Visual Studios 2014 </li>
-  <li></li>
+  <br  /> NOTE: vc14 stands for Visual Studio 2014 </li>
+  <li>Using Visual Studio create a Windows Consol</li>
 
 </ol>
   
