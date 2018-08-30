@@ -9,8 +9,8 @@ This is a modification in the works for OpenCV Video Facial Recognition. The goa
 </ul>
 
 <ol> INSTRUCTIONS TO RUN
-  <li></li>
-  <li></li>
+  <li>Download opencv to your computer(I use opencv2) </li>
+  <li>In your computers system variables, set the path to opencv bin<br  /> i.e. C:\opencv\build\x86\vc14\bin </li>
   <li></li>
 
 </ol>
