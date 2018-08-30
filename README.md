@@ -6,6 +6,12 @@ This is a modification in the works for OpenCV Video Facial Recognition. The goa
   <li> All videos must have the same frame rate and resolution</li>
   <li> All images must have the same deminsions </li>
   <li> Grayscaling images reduces data size by 2/3rd and also reduces interference from lighting</li>
+</ul>
 
-  </ul>
+<ol> INSTRUCTIONS TO RUN
+  <li></li>
+  <li></li>
+  <li></li>
+
+</ol>
   
